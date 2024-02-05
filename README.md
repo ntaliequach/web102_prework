@@ -17,13 +17,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
+
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/cfvuYA2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![aKIcV1m - Imgur](https://github.com/ntaliequach/web102_prework/assets/89567185/d12e5edc-919b-4f7e-80ef-bf8c092003c5)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
