@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![aKIcV1m - Imgur](https://github.com/ntaliequach/web102_prework/assets/89567185/1a9ae745-481c-4535-a68b-b820f395970e)
+<img src="https://i.imgur.com/b9PdOpK.gif" alt="Video Walkthrough">
 
 
 <!-- Replace this with whatever GIF tool you used! -->
